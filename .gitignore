@@ -1,0 +1,5 @@
+# Raw downloads are large and can be fetched again; raw/manifest.csv records
+# each file's URL and SHA-256 and MUST be committed. git does not descend into
+# an ignored directory, so the contents are ignored rather than the directory.
+raw/*
+!raw/manifest.csv
