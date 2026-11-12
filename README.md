@@ -12,8 +12,7 @@ published estimates.
 
 **Author:** Dr. Adewole Olagoke · [aolagoke-dsae](https://github.com/aolagoke-dsae)
 
-> **Status: design confirmed (02.11.2026).** Built 1–21 February 2027
-> (Master Plan §2.6). Only the death counts have been downloaded, and only to
-> check them; nothing has been modelled. The question, the data and the rules
-> are in [`docs/DESIGN.md`](docs/DESIGN.md), fixed by the first commit before
-> any other data is pulled.
+> **Status: design confirmed (02.11.2026), build in progress.** Only the death
+> counts have been downloaded, and only to check them; nothing has been modelled.
+> The question, the data and the rules are in [`docs/DESIGN.md`](docs/DESIGN.md),
+> fixed by the first commit before any other data is pulled.
